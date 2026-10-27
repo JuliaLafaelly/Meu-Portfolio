@@ -56,11 +56,12 @@ O portfólio está em constante evolução, acompanhando meu aprendizado e meus 
 
 ## 🌐 Acesse o projeto
 
-- **Repositório:** [Meu-Portfolio](https://github.com/JuliaLafaelly/Meu-Portfolio)
+- **Repositório:** [Meu-Portfolio](https://julialafaelly.github.io/Meu-Portfolio/)
 
 ---
 
 <p align="center">
   ⭐ Se gostou do projeto, considere deixar uma estrela no repositório!
 </p>
+
 ```
