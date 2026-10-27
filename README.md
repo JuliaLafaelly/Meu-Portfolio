@@ -54,9 +54,6 @@ O portfólio está em constante evolução, acompanhando meu aprendizado e meus 
 - **Design responsivo:** proposta de interface adaptável a diferentes tamanhos de tela.
 - **Contato:** espaço para facilitar conexões e oportunidades profissionais.
 
-```
-
-
 ## 🌐 Acesse o projeto
 
 - **Repositório:** [Meu-Portfolio](https://github.com/JuliaLafaelly/Meu-Portfolio)
@@ -64,9 +61,6 @@ O portfólio está em constante evolução, acompanhando meu aprendizado e meus 
 ---
 
 <p align="center">
-  Desenvolvido com 💜 por <strong>Julia Lafaelly</strong>
-</p>
-
-<p align="center">
   ⭐ Se gostou do projeto, considere deixar uma estrela no repositório!
 </p>
+```
